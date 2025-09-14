@@ -8,9 +8,9 @@
 
 ## 🚀 Skills & Tech Stack
 - **Languages:** Java, Python, JavaScript, TypeScript, C, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, ExpressJS  
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, ExpressJS, Node JS 
 - **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Cloud & DevOps:** AWS, Git  
+- **Cloud & DevOps:** AWS, Git, Docker  
 - **Other Skills:** OOPM, UI/UX Basics  
 
 ---
