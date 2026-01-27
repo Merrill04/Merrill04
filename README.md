@@ -19,7 +19,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Merrill04&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Merrill04&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -51,11 +50,11 @@
 </a>
 
 <a href="https://www.credly.com/badges/fc175e0e-153b-406a-9a43-0c6eab65094a/print">
-<img src="https://images.credly.com/size/110x110/images/9b3c39bb-9d6f-4bdf-bb87-30f2e83b7f52/AWS_Academy_Graduate_Microservices.png"/>
+<img src="https://images.credly.com/size/680x680/images/6ff76b93-852c-4f9e-a73a-fc10424a1007/blob"/>
 </a>
 
 <a href="https://www.credly.com/badges/fe12770e-cdf8-4168-b747-1b6c2cf32f09/public_url">
-<img src="https://images.credly.com/size/110x110/images/4c8e5c73-7d9c-4f06-b7a8-52c7d9db0c9a/AWS_Academy_Graduate_Cloud_Web_App_Builder.png"/>
+<img src="https://images.credly.com/size/680x680/images/7b3f119b-ada8-4ff6-817a-f2a8bbb7fe97/blob"/>
 </a>
 </p>
 
