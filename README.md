@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://www.credly.com/badges/45c44869-cab8-4939-8b91-c09f757f9271/print">
-<img src="https://images.credly.com/size/110x110/images/684c1e9a-bd03-41d6-8bb8-7c9d3bb4c9a6/AWS_Academy_Graduate_Cloud_Architecting.png"/>
+<img src="https://images.credly.com/size/680x680/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob"/>
 </a>
 
 <a href="https://www.credly.com/badges/fc175e0e-153b-406a-9a43-0c6eab65094a/print">
