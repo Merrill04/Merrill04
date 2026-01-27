@@ -31,9 +31,9 @@
 ---
 
 ## 📜 Certifications
-- 🏅 [AWS Academy Graduate – Cloud Architecting](https://www.credly.com/badges/45c44869-cab8-4939-8b91-c09f757f9271/print)  
-- 🏅 [AWS Academy Graduate – Microservices & CI/CD Pipeline Builder](https://www.credly.com/badges/fc175e0e-153b-406a-9a43-0c6eab65094a/print)  
-
+- 🏅 [AWS Academy Graduate - Cloud Architecting - Training Badge](https://www.credly.com/badges/45c44869-cab8-4939-8b91-c09f757f9271/print)  
+- 🏅 [AWS Academy Graduate - Microservices and CI/CD Pipeline Builder - Training Badge](https://www.credly.com/badges/fc175e0e-153b-406a-9a43-0c6eab65094a/print)  
+- 🏅 [AWS Academy Graduate - Cloud Web Application Builder - Training Badge](https://www.credly.com/badges/fe12770e-cdf8-4168-b747-1b6c2cf32f09/public_url)
 
 ---
 
