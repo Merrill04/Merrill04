@@ -44,7 +44,7 @@
 
 ## 🏅 Certifications
 
-<p align="center">
+<p>
 <a href="https://www.credly.com/badges/45c44869-cab8-4939-8b91-c09f757f9271/print">
   <img src="https://images.credly.com/size/680x680/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="120"/>
 </a>
@@ -67,7 +67,7 @@
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<p>
 <a href="mailto:merrilldmonte@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/merrill-dmonte-546b62351/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Merrill04"><img src="https://skillicons.dev/icons?i=github" /></a>
