@@ -15,14 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Merrill04&show_icons=true&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 📂 Featured Projects
 ### 🌍 E-Waste Facility Locator
 **Tech:** React, Node.js, MongoDB, AI/ML, Mapbox  
@@ -44,17 +36,25 @@
 
 ## 🏅 Certifications
 
-<p>
+<p align="center">
 <a href="https://www.credly.com/badges/45c44869-cab8-4939-8b91-c09f757f9271/print">
-  <img src="https://images.credly.com/size/680x680/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="120"/>
+  <img src="https://images.credly.com/size/680x680/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="150"/>
 </a>
 
 <a href="https://www.credly.com/badges/fc175e0e-153b-406a-9a43-0c6eab65094a/print">
-  <img src="https://images.credly.com/size/680x680/images/6ff76b93-852c-4f9e-a73a-fc10424a1007/blob" width="120"/>
+  <img src="https://images.credly.com/size/680x680/images/6ff76b93-852c-4f9e-a73a-fc10424a1007/blob" width="150"/>
 </a>
 
 <a href="https://www.credly.com/badges/fe12770e-cdf8-4168-b747-1b6c2cf32f09/public_url">
-  <img src="https://images.credly.com/size/680x680/images/7b3f119b-ada8-4ff6-817a-f2a8bbb7fe97/blob" width="120"/>
+  <img src="https://images.credly.com/size/680x680/images/7b3f119b-ada8-4ff6-817a-f2a8bbb7fe97/blob" width="150"/>
+</a>
+
+<a href="https://www.credly.com/badges/46bf9b49-2363-4d3a-bac1-6d214b74e0b6/public_url">
+  <img src="https://images.credly.com/size/680x680/images/683b2e3c-0d28-42a2-ab84-7203a209f9d0/blob" width="150"/>
+</a>
+
+<a href="https://www.credly.com/badges/9e5e46c9-c731-4d2a-95ca-3233fe09eb0f/public_url">
+  <img src="https://images.credly.com/size/680x680/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/image.png" width="150"/>
 </a>
 </p>
 
@@ -67,7 +67,7 @@
 
 ## 🤝 Connect with Me
 
-<p>
+<p align="center">
 <a href="mailto:merrilldmonte@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/merrill-dmonte-546b62351/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Merrill04"><img src="https://skillicons.dev/icons?i=github" /></a>
