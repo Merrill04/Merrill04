@@ -29,7 +29,7 @@
 ---
 
 ## 🎓 Education
-- **BE Computer Engineering** – Fr. CRCE, Mumbai University (CGPA: 7.97 till Sem VI)  
+- **BE Computer Engineering** – Fr. CRCE, Mumbai University, 8.01 CGPA  
 - **HSC (2022)** – 70% | **SSC (2020)** – 91.20%  
 
 ---
