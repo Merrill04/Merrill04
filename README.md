@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Full+Stack+Developer;Cloud+%7C+AI+%7C+System+Design+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Graduate;Full+Stack+Developer;Cloud+%7C+AI+%7C+System+Design+Enthusiast&center=true&width=500&height=45">
 </p>  
 
 ---
@@ -22,9 +22,10 @@
 - Predict device resale value using ML  
 - Schedule pickups & chatbot support  
 
-### 🏦 Bank Management System
-**Tech:** Java, Swing, MySQL  
-- Desktop banking system with transactions & account management   
+###  URL Shortening Service
+**Tech:** Nodejs, Redis, Postgres, REST API  
+- A URL Shortening service supporting new short url creation, redirection, caching and analytics.
+- Supports redis cache for fast redirection.    
 
 ---
 
