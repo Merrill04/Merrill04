@@ -55,18 +55,6 @@ const merrill: Engineer = {
 
 **Stack:** `Node.js` `Express` `PostgreSQL` `Redis` `JWT` `React` `k6`
 
-```mermaid
-flowchart LR
-    C([Client]) -->|GET /:shortCode| A[Express API]
-    A -->|1. lookup| R[(Redis Cache)]
-    R -->|hit| A
-    R -.->|miss| P[(PostgreSQL)]
-    P -.->|populate cache| R
-    A -->|302 redirect| C
-    A -->|log click + parse User-Agent| P
-```
-
-**What I built and the impact:**
 - 🚀 **Cut average redirect latency by 68%** (8.4 ms → 2.7 ms), validated with **k6 load benchmarking**
 - 🗃️ Designed a **relational schema with PostgreSQL indexing** for fast short-code lookups
 - 🔴 Added a **Redis caching layer** so hot links skip the database entirely
@@ -119,9 +107,8 @@ flowchart LR
 
 <div align="center">
 
-[![DSA Repo](https://github-readme-stats.vercel.app/api/pin/?username=Merrill04&repo=YOUR_DSA_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/Merrill04/YOUR_DSA_REPO_NAME)
+[![DSA Repo](https://github-readme-stats.vercel.app/api/pin/?username=Merrill04&repo=YOUR_DSA_REPO_NAME&theme=tokyonight&hide_border=true)]([https://github.com/Merrill04/YOUR_DSA_REPO_NAME](https://github.com/Merrill04/Competitive-programming-practise-in-cpp))
 
-![Problems](https://img.shields.io/badge/Problems%20Solved-300%2B-00E5A0?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
