@@ -103,15 +103,30 @@ const merrill: Engineer = {
 
 ## 🧩 DSA Grind
 
-> Every problem I solve gets pushed to my repo, so the progress is public and searchable.
+> Every problem I solve gets pushed to my repos, so the progress is public and searchable. One repo for LeetCode, one for competitive programming.
 
 <div align="center">
 
-[![DSA Repo](https://github-readme-stats.vercel.app/api/pin/?username=Merrill04&repo=YOUR_DSA_REPO_NAME&theme=tokyonight&hide_border=true)]([https://github.com/Merrill04/YOUR_DSA_REPO_NAME](https://github.com/Merrill04/Competitive-programming-practise-in-cpp))
+<a href="https://github.com/Merrill04/DSA-in-Java-LeetCode-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrill04&repo=DSA-in-Java-LeetCode-&theme=tokyonight&hide_border=true" alt="LeetCode solutions repo" />
+</a> 
+<a href="https://github.com/Merrill04/Competitive-programming-practise-in-cpp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrill04&repo=Competitive-programming-practise-in-cpp&theme=tokyonight&hide_border=true" alt="Competitive programming repo" />
+</a>
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+<br/> 
+<img src="https://img.shields.io/badge/Problems%20Solved-300%2B-00E5A0?style=for-the-badge" alt="300+ problems solved" /> 
+<a href="https://leetcode.com/u/merrilldmonte">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+</a> 
+<a href="https://codeforces.com/profile/Merrill04">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
+</a> 
+<a href="https://www.codechef.com/users/merrill0410">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
+</a>
+
+<br/><br/>
 
 📊 **[View my full coding profile on Codolio →](https://codolio.com/profile/Merrill04)**
 
