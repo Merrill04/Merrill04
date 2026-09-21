@@ -107,12 +107,8 @@ const merrill: Engineer = {
 
 <div align="center">
 
-<a href="https://github.com/Merrill04/DSA-in-Java-LeetCode-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrill04&repo=DSA-in-Java-LeetCode-&theme=tokyonight&hide_border=true" alt="LeetCode solutions repo" />
-</a> 
-<a href="https://github.com/Merrill04/Competitive-programming-practise-in-cpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrill04&repo=Competitive-programming-practise-in-cpp&theme=tokyonight&hide_border=true" alt="Competitive programming repo" />
-</a>
+<a href="https://github.com/Merrill04/DSA-in-Java-LeetCode-"></a> 
+<a href="https://github.com/Merrill04/Competitive-programming-practise-in-cpp"></a>
 
 <br/> 
 <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-00E5A0?style=for-the-badge" alt="300+ problems solved" /> 
@@ -138,12 +134,7 @@ const merrill: Engineer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Merrill04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merrill04&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=Merrill04&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Merrill04&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
