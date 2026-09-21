@@ -107,9 +107,6 @@ const merrill: Engineer = {
 
 <div align="center">
 
-<a href="https://github.com/Merrill04/DSA-in-Java-LeetCode-"></a> 
-<a href="https://github.com/Merrill04/Competitive-programming-practise-in-cpp"></a>
-
 <br/> 
 <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-00E5A0?style=for-the-badge" alt="300+ problems solved" /> 
 <a href="https://leetcode.com/u/merrilldmonte">
